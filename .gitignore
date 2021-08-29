@@ -1,0 +1,27 @@
+# Folder view configuration files
+*.DS_Store
+*.pydevproject
+
+# Compiled Python files
+*.pyc
+
+# Log files
+*.log
+*.lp
+*.ilp
+*.mps
+
+# PDF files 
+*.pdf
+
+#Pickle files
+*.pickle 
+
+# Folders
+/SDDP/__pycache__/
+.settings/
+*/Output/
+
+.vs_code/
+*workspace/
+
