@@ -1,7 +1,9 @@
 '''
 Created on Sep 13, 2018
-
 @author: dduque
+
+Solves a hydro-power generation problem using SDDP. This example uses
+the Wasserstein DRO risk measure.
 '''
 from __init__ import import_SDDP
 import_SDDP()

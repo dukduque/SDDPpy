@@ -1,7 +1,11 @@
 '''
 Created on Sep 12, 2018
-
 @author: dduque
+
+Solves a hydro-power generation problem using SDDP. This example
+implements  the Wasserstein uncertainty set based on Philpott et al. The 
+inner worst-case expectation problem is solved in the backward pass to 
+compute the cuts. This approach is regarded as Primal.
 '''
 from __init__ import import_SDDP
 import_SDDP()

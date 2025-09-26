@@ -3,13 +3,9 @@ Created on Jun 27, 2018
 
 @author: dduque, based on Knitro example
 
-Auxiliary modul to solve the nonlinear problem associated to the worst-case 
+Auxiliary module to solve the nonlinear problem associated to the worst-case 
 expectation in DRO.
 '''
-"""
-Auxiliary modul to solve the nonlinear problem associated to the worst-case 
-expectation in DRO.
-"""
 
 import sys
 sys.path.append('/Applications/knitro-11.0.1-z-MacOS-64/examples/Python/')

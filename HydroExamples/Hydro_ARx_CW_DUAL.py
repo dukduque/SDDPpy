@@ -1,10 +1,9 @@
 '''
 Created on Nov 13, 2019
+@author: Daniel Duque
 
 Run file for DRO model using wasserstein distance and continuous
 support for the worst-case probability distribution.
-
-@author: Daniel Duque
 '''
 from __init__ import import_SDDP
 import_SDDP()
